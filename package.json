@@ -1,0 +1,16 @@
+{
+  "name": "info-support-heart-open-source-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"kc-serve --theme black --highlight darkula -o\" \"http-server -p 4901\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@infosupport/kc-serve": "^2.1.3",
+    "concurrently": "^3.5.1",
+    "http-server": "^0.11.1"
+  }
+}
