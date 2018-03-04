@@ -4,7 +4,7 @@ Info Support :heart: Open Source
 
 Open Source is gaaf! Info Support omarmt dit via een Open Source beleid. "Beleid" klinkt zwaar, maar dat is het niet. Aan de hand van onze bestaande projecten, zoals Stryker en Augurk, laten we zien dat het veel te bieden heeft. Denk hierbij aan goodies, hackathons en werktijd.
 
-Benieuwd naar Info Support en Open Source? Twijfel je of het iets voor jou is? Of wil je bijdragen aan bestaande projecten? Kom naar deze sessie en laat je inspireren om ook jou ideeen te open sourcen!
+Benieuwd naar Info Support en Open Source? Twijfel je of het iets voor jou is? Of wil je bijdragen aan bestaande projecten? Kom naar deze sessie en laat je inspireren om ook jou ideeën te open sourcen!
 
 ## Intro: Info Support :heart: open source (Mark/Jonathan)
 
