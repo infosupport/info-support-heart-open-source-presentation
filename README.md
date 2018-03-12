@@ -19,6 +19,7 @@ Benieuwd naar Info Support en Open Source? Twijfel je of het iets voor jou is? O
         * Growth hacking workshop (misschien via Maarten de Penning)
     * Legal
     * Indirect
+* What's in it for Info Support?
 
 ## Bestaande open source projecten
 

@@ -1,3 +1,29 @@
 .reveal h1, .reveal h2, .reveal h3 {
-    color: yellow;
+    color: #f1c40f;
+}
+
+.reveal section img {
+    margin: 15px 0px;
+    background: none;
+    border: 0;
+    box-shadow: none;
+}
+
+.reveal section .img-big {
+    height: 500px;
+}
+
+
+.reveal section img.logo, .reveal section .logo img {
+    margin: 15px 0px;
+    background: none;
+    border: none;
+    box-shadow: none;
+    height: 140px;
+    vertical-align: middle;
+}
+
+.reveal section .logo-percentage {
+    font-size: 4em;
+    vertical-align: middle;
 }
