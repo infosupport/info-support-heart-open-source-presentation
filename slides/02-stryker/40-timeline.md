@@ -19,7 +19,7 @@
       <p>Rewrite to TS</p>
     </div>
   </div>
-  <div class="container right">
+  <div class="container right"> 
     <div class="content">
       <h3>Apr-2016</h3>
       <p>Release 0.1</p>

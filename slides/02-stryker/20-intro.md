@@ -32,7 +32,7 @@ Code coverage 100%, but wait...
 
 ---
 
-![](/img/this-is-fine.png)
+![](/img/test-the-tests.jpg)
 
 We need something better
 
