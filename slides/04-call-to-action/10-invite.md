@@ -1,1 +1,3 @@
-# Join us!
+## Want to join?
+
+![](../../img/pizza.jpg)
