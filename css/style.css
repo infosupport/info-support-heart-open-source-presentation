@@ -16,6 +16,10 @@
     color: #f1c40f;
 }
 
+.reveal .augurk h1, .reveal .augurk h2, .reveal .augurk h3 {
+    color: #5cbd2d;
+}
+
 .reveal section img {
     margin: 15px 0px;
     background: none;

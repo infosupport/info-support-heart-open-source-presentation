@@ -1,3 +1,4 @@
+<!-- .slide: class="augurk" -->
 ## What is it?
 
 * Gherkin & Specification by Example
