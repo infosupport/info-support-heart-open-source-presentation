@@ -95,3 +95,7 @@
     text-align: center;
     color: #333;
 }
+
+.reveal img.img-rounded {
+    border-radius: 30%;
+}
