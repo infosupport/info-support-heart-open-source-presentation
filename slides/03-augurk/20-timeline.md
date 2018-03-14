@@ -40,7 +40,7 @@
   <div class="container right">
     <div class="content">
       <h3>Sep-2015</h3>
-      <p>2.0.0 release with versioning</p>
+      <p>2.0.0 release</p>
     </div>
   </div>
   <div class="container left">
@@ -49,25 +49,31 @@
       <p>Command line tool released</p>
     </div>
   </div>
-  </div>
-  
----
-<!-- .slide: class="augurk" -->
- <div class="timeline compact">
-  <div class="container left">
+    <div class="container right">
     <div class="content">
       <h3>Feb-2016</h3>
       <p>First Dutch SpecFlow Users Meetup</p>
       <img src="../../img/specflow-meetup.png" alt="Meetup">
     </div>
   </div>
+  </div>
+  
+---
+<!-- .slide: class="augurk" -->
+ <div class="timeline compact">
   <div class="container right">
+    <div class="content">
+      <h3>Feb-2017</h3>
+      <p>Official Info Support project</p>
+    </div>
+  </div>
+  <div class="container left">
     <div class="content">
       <h3>Apr-2017</h3>
       <p>New Feature: Product descriptions</p>
     </div>
   </div>
-  <div class="container left">
+  <div class="container right">
     <div class="content">
       <h3>Sep-2017</h3>
       <p>New Feature: Retention Policy</p>
