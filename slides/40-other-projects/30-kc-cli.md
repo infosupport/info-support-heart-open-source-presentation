@@ -13,6 +13,6 @@
 
 ### KC-CLI
 
-* Authors (Manuel Riezenbosch and NicoJS)
+* Authors (Manuel Riezebosch and NicoJS)
 * In dire need of a maintainer!
 * https://gitlab.rhea.infosupport.net/kenniscentrum/kc-cli <!-- .element class="compact" -->
